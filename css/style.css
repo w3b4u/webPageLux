@@ -365,7 +365,7 @@ body{
   position: absolute;
   width: 25px;
   height: 25px;
-  background-image: url('/images/play.svg');
+  background-image: url('../images/play.svg');
   top: 12px;
   left: 26px;
 }
